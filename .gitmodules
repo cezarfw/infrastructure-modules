@@ -1,3 +1,0 @@
-[submodule "terraform-aws-acm"]
-	path = terraform-aws-acm
-	url = https://github.com/terraform-aws-modules/terraform-aws-acm.git
